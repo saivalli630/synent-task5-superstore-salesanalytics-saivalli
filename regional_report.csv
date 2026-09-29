@@ -1,0 +1,50 @@
+Region,State,Total_Orders,Total_Sales,Total_Profit,Profit_Margin
+Central,Illinois,276,80166.11,-12607.94,-15.73
+Central,Indiana,73,53555.36,18382.94,34.33
+Central,Iowa,17,4579.76,1183.8,25.85
+Central,Kansas,14,2914.31,836.44,28.7
+Central,Michigan,117,76269.61,24463.1,32.07
+Central,Minnesota,44,29863.15,10823.21,36.24
+Central,Missouri,30,22205.15,6436.19,28.99
+Central,Nebraska,23,7464.93,2037.09,27.29
+Central,North Dakota,2,919.91,230.14,25.02
+Central,Oklahoma,34,19683.39,4853.97,24.66
+Central,South Dakota,5,1315.56,394.84,30.01
+Central,Texas,487,170187.91,-25729.32,-15.12
+Central,Wisconsin,53,32114.61,8401.78,26.16
+East,Connecticut,45,13384.36,3511.44,26.24
+East,Delaware,44,27451.07,9977.35,36.35
+East,District of Columbia,4,2865.02,1059.59,36.98
+East,Maine,3,1270.53,454.49,35.77
+East,Maryland,46,23705.52,7031.17,29.66
+East,Massachusetts,62,28634.44,6785.5,23.7
+East,New Hampshire,17,7292.52,1706.49,23.4
+East,New Jersey,61,35764.32,9772.9,27.33
+East,New York,562,310876.2,74038.47,23.82
+East,Ohio,236,78258.19,-16971.38,-21.69
+East,Pennsylvania,288,116511.98,-15560.06,-13.35
+East,Rhode Island,25,22627.96,7285.63,32.2
+East,Vermont,6,8929.37,2244.98,25.14
+East,West Virginia,2,1209.82,185.93,15.37
+South,Alabama,34,19510.64,5786.84,29.66
+South,Arkansas,27,11678.13,4008.65,34.33
+South,Florida,200,89473.68,-3399.26,-3.8
+South,Georgia,91,49095.84,16250.0,33.1
+South,Kentucky,61,36591.75,11199.66,30.61
+South,Louisiana,21,9217.03,2196.08,23.83
+South,Mississippi,26,10771.34,3172.97,29.46
+South,North Carolina,136,55603.07,-7490.84,-13.47
+South,South Carolina,20,8481.71,1769.07,20.86
+South,Tennessee,91,30661.92,-5341.67,-17.42
+South,Virginia,115,70636.72,18597.99,26.33
+West,Arizona,108,35281.94,-3427.89,-9.72
+West,California,1021,457687.62,76381.23,16.69
+West,Colorado,79,32108.11,-6527.88,-20.33
+West,Idaho,11,4382.49,826.73,18.86
+West,Montana,8,5589.35,1833.32,32.8
+West,Nevada,23,16729.1,3316.76,19.83
+West,New Mexico,22,4783.54,1157.13,24.19
+West,Oregon,56,17431.12,-1190.47,-6.83
+West,Utah,26,11220.06,2546.54,22.7
+West,Washington,256,138641.29,33402.64,24.09
+West,Wyoming,1,1603.14,100.2,6.25
